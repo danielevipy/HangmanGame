@@ -1,0 +1,6 @@
+1 270 Dan
+2 200 Linoy
+3 150 Eliad
+4 100 Daniel
+5 0 Bandi
+6 0 Oved
